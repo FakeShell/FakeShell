@@ -16,7 +16,7 @@ I'm Bardia, a DevOps engineer and systems administrator. I work on Linux OSes in
 - [Basic battery management service for Linux Phones](https://github.com/FakeShell/batman)
 - [Port of Droidian on Xiaomi onclite](https://github.com/droidian-onclite)
 - [Port of Droidian on Xiaomi lavender](https://github.com/droidian-lavender)
-- [Port of Droidian to Xiaomi dandelion/angelica](https://github.com/droidian-mt6765)
+- [Port of Droidian to Xiaomi dandelion/angelica/angelican](https://github.com/droidian-mt6765)
 - [Port of Droidian to Xiaomi surya/karna](https://github.com/droidian-surya)
 - [Port of Droidian for Google sargo/bonito](https://github.com/droidian-sargo)
 - [Port of Droidian to Samsung starlte, star2lte and crownlte](https://github.com/Sexynos)
