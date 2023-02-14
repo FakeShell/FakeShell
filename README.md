@@ -21,6 +21,7 @@ I'm Bardia, a DevOps engineer and systems administrator. I work on Linux OSes in
 - [Port of Droidian for Google sargo/bonito](https://github.com/droidian-sargo)
 - [Port of Droidian to Samsung starlte, star2lte and crownlte](https://github.com/Sexynos)
 
+My abandoned/half finished projects can be viewed [here](https://github.com/FakeShell-old)
 ## Get in touch
 - Personal Website: [bardia.tech](https://bardia.tech)
 - LinkedIn: https://www.linkedin.com/in/bardia-moshiri
