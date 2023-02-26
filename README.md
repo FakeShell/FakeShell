@@ -9,6 +9,8 @@ I'm Bardia, a DevOps engineer and systems administrator. I work on Linux OSes in
 
 ## My projects
 - [My online radio station](https://fakedak.com)
+- [Manjaro libhybris](https://github.com/manjaro-libhybris)
+- [Droidian](https://github.com/droidian)
 - [My software repository mirror](https://mirror.bardia.tech)
 - [My docker registry](https://dockreg.com)
 - [Arch Linux Iranian user community repository](https://github.com/archlinuxir)
