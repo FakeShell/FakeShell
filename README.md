@@ -9,8 +9,9 @@ I'm Bardia, a DevOps engineer and systems administrator. I work on Linux OSes in
 
 ## My projects
 - [My online radio station](https://fakedak.com)
-- [Manjaro libhybris](https://github.com/manjaro-libhybris)
 - [Droidian](https://github.com/droidian)
+- [Manjaro libhybris](https://github.com/manjaro-libhybris)
+- [Alphybris](https://github.com/alphybris)
 - [My software repository mirror](https://mirror.bardia.tech)
 - [My docker registry](https://dockreg.com)
 - [Arch Linux Iranian user community repository](https://github.com/archlinuxir)
@@ -22,8 +23,9 @@ I'm Bardia, a DevOps engineer and systems administrator. I work on Linux OSes in
 - [Port of Droidian to Xiaomi surya/karna](https://github.com/droidian-surya)
 - [Port of Droidian for Google sargo/bonito](https://github.com/droidian-sargo)
 - [Port of Droidian to Samsung starlte, star2lte and crownlte](https://github.com/Sexynos)
-
+- [Port of Droidian to Samsung starqlte](https://github.com/droidian-starqlte)
 My abandoned/half finished projects can be viewed [here](https://github.com/FakeShell-old)
 ## Get in touch
 - Personal Website: [bardia.tech](https://bardia.tech)
 - LinkedIn: https://www.linkedin.com/in/bardia-moshiri
+- Telegram: [@FakeShell][https://t.me/fakeshell]
