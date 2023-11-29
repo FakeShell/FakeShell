@@ -14,12 +14,6 @@ Hello! I'm Bardia, a Software engineer (former DevOps engineer and systems admin
 - [Manjaro libhybris device ports](https://github.com/manjaro-libhybris-devices)
 - [AlpHybris](https://github.com/alphybris)
 - [My software repository mirror](https://mirror.bardia.tech)
-- [Droidian camera app](https://github.com/droidian/droidian-camera)
-- [Basic battery management service for Linux Phones](https://github.com/FakeShell/batman)
-- [Droidian fingerprint client daemon](https://github.com/droidian/droidian-fpd-client)
-- [Phosh hybris startup notch && cutout handler](https://github.com/droidian/overlay-reader/tree/droidian/getcutout)
-- [WIP exynos 9810 Droidian port](https://github.com/Sexynos)
-- [WIP surya Droidian port](https://github.com/droidian-surya)
 - [AlpHybris](https://github.com/alphybris)
 
 Addtionally, my abandoned and half-finished projects can be viewed [here](https://github.com/FakeShell-old)
