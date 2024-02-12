@@ -7,14 +7,13 @@
 
 Hello! I'm Bardia, a Software engineer (former DevOps engineer and systems administrator). I spend my free time working on various Linux distros.
 
-## Projects i work on
+## Projects I work on
 - [Droidian](https://github.com/droidian)
 - [Droidian device ports](https://github.com/droidian-devices)
 - [Manjaro libhybris](https://github.com/manjaro-libhybris)
 - [Manjaro libhybris device ports](https://github.com/manjaro-libhybris-devices)
 - [AlpHybris](https://github.com/alphybris)
 - [My software repository mirror](https://mirror.bardia.tech)
-- [AlpHybris](https://github.com/alphybris)
 
 Addtionally, my abandoned and half-finished projects can be viewed [here](https://github.com/FakeShell-old)
 
