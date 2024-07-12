@@ -6,16 +6,16 @@
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me)](https://bardia.tech)
 
 Hello! I'm Bardia, a Software engineer (former DevOps engineer and systems administrator). I spend my free time working on various Linux distros.
+I, along with many, also maintain FuriOS for the Furi Labs FLX1 linux phone
 
 ## Projects I work on
+- [FuriOS](https://github.com/FuriLabs)
 - [Droidian](https://github.com/droidian)
 - [Droidian device ports](https://github.com/droidian-devices)
 - [Manjaro libhybris](https://github.com/manjaro-libhybris)
 - [Manjaro libhybris device ports](https://github.com/manjaro-libhybris-devices)
 - [AlpHybris](https://github.com/alphybris)
 - [My software repository mirror](https://mirror.bardia.tech)
-
-Addtionally, my abandoned and half-finished projects can be viewed [here](https://github.com/FakeShell-old)
 
 ## Get in touch
 - Personal Website: [bardia.tech](https://bardia.tech)
