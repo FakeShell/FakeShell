@@ -6,7 +6,7 @@
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me)](https://bardia.tech)
 
 Hello! I'm Bardia, a Software engineer (former DevOps engineer and systems administrator). I spend my free time working on various Linux distros.
-I, along with many, also maintain FuriOS for the Furi Labs FLX1 linux phone
+I, along with many, maintain FuriOS and develop the FLX1 linux phone :)
 
 ## Projects I work on
 - [FuriOS](https://github.com/FuriLabs)
